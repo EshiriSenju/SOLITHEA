@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "title": "Solithea",
+    "tagline": "Athleten auf das nächste Level bringen",
+    "cta": "Starte deine Reise"
+  },
+  "about": {
+    "title": "Lerne Theo Onyegbule kennen",
+    "description": "Mit über einem Jahrzehnt Erfahrung im Athletiktraining und in der Entwicklung hat Theo unzähligen Athleten geholfen, ihr volles Potenzial zu entfalten. Sein einzigartiger Ansatz verbindet modernste Sportwissenschaft mit praktischer Erfahrung aus jahrelanger Arbeit mit Profisportlern.",
+    "certifications": {
+      "title1": "Zertifizierter Kraft- und Konditionsspezialist",
+      "title2": "Ehemaliger Profifußballer",
+      "title3": "Experte für Sportwissenschaft und Ernährung"
+    }
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "items": {
+      "strength": {
+        "title": "Kraft und Kondition",
+        "description": "Baue Kraft und Ausdauer mit unseren spezialisierten Trainingsprogrammen auf."
+      },
+      "speed": {
+        "title": "Schnelligkeits- und Agilitätstraining",
+        "description": "Verbessere deine Leistung auf dem Platz mit dynamischem Bewegungstraining."
+      },
+      "injury": {
+        "title": "Verletzungsprävention und Regeneration",
+        "description": "Bleibe in Topform mit unseren präventiven Pflege- und Regenerationsprotokollen."
+      },
+      "football": {
+        "title": "Fußballspezifische Übungen",
+        "description": "Beherrsche die wichtigsten Techniken auf dem Platz."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Athleten sagen"
+  },
+  "gallery": {
+    "title": "Trainingsgalerie",
+    "captions": {
+      "youth": "Jugendtraining",
+      "speed": "Schnelligkeitstraining",
+      "technical": "Technische Fähigkeiten",
+      "team": "Teamtraining",
+      "match": "Spielvorbereitung",
+      "strength": "Krafttraining"
+    }
+  },
+  "contact": {
+    "title": "Kontaktiere uns",
+    "description": "Bereit, deine Leistung zu verbessern? Kontaktiere uns noch heute, um deine erste Trainingseinheit zu planen oder mehr über unsere Trainingsprogramme zu erfahren.",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "phone": "Telefonnummer",
+      "message": "Nachricht",
+      "submit": "Nachricht senden"
+    },
+    "info": {
+      "address": "Adresse",
+      "email": "E-Mail",
+      "phone": "Telefon"
+    }
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

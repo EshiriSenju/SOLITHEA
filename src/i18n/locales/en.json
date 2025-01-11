@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "title": "Solithea",
+    "tagline": "Elevating Athletes to the Next Level",
+    "cta": "Start Your Journey"
+  },
+  "about": {
+    "title": "Meet Theo Onyegbule",
+    "description": "With over a decade of experience in athletic training and development, Theo has helped countless athletes reach their full potential. His unique approach combines cutting-edge sports science with practical experience from years of working with professional athletes.",
+    "certifications": {
+      "title1": "Certified Strength and Conditioning Specialist",
+      "title2": "Former Professional Football Player",
+      "title3": "Sports Science and Nutrition Expert"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "items": {
+      "strength": {
+        "title": "Strength and Conditioning",
+        "description": "Build power and endurance with our specialized training programs."
+      },
+      "speed": {
+        "title": "Speed and Agility Training",
+        "description": "Enhance your on-field performance with dynamic movement training."
+      },
+      "injury": {
+        "title": "Injury Prevention and Recovery",
+        "description": "Stay in peak condition with our preventive care and recovery protocols."
+      },
+      "football": {
+        "title": "Football-Specific Drills",
+        "description": "Master the techniques that matter most on the pitch."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Athletes Say"
+  },
+  "gallery": {
+    "title": "Training Gallery",
+    "captions": {
+      "youth": "Youth Training Session",
+      "speed": "Speed Training",
+      "technical": "Technical Skills",
+      "team": "Team Practice",
+      "match": "Match Preparation",
+      "strength": "Strength Training"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Ready to transform your performance? Contact us today to schedule your first session or learn more about our training programs.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
